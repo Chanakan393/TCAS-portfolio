@@ -52,7 +52,7 @@ export default function PortfolioForm() {
                 activityPhotos: undefined,
                 educationLevel: '',
                 school: '',
-                gpa: '', // ให้ว่าง
+                gpa: 0, 
                 university: '',
                 faculty: '',
                 major: '',
